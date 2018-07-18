@@ -1,0 +1,13 @@
+{
+    "name": "Simple Native Messaging",
+    "version": "1.0",
+    "description": "A simple example",
+    "manifest_version": 2,
+    "background": {
+        "scripts": ["main.js"],
+        "persistent": true
+      },
+    "permissions": [
+        "nativeMessaging"
+      ]
+  }

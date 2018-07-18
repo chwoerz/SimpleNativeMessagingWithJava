@@ -1,0 +1,9 @@
+{
+    "name": "ch.woerz.simple_example",
+    "description": "A simple client application",
+    "path": "/path/to/your/shell-script",
+    "type": "stdio",
+    "allowed_origins": [
+      "chrome-extension://YOUR-CHROME-EXTENSION-ID/"
+    ]
+  }
